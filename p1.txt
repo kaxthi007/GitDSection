@@ -4,7 +4,10 @@ Mew line texting
 Karthik
 Madhanayakanahalli road, Siddanahosahalli,Banglore
 Karnataka
+<<<<<<< HEAD
 Added new extra line
 New branch is create
 hi hi hi
 >>>>>>> ddc99a6 (New branch created p1.txt)
+=======
+>>>>>>> parent of ddc99a6 (New branch created p1.txt)
